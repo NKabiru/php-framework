@@ -1,0 +1,7 @@
+TODO:
+[] Use the new version of league/route (4.x)
+[] Setup a login page
+[] Setup environment variables package
+[] Setup entities
+[] Clean up project structure
+[] Setup migrations package
